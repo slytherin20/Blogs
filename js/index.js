@@ -1,10 +1,17 @@
 const blogContainer = document.querySelector(".blogs");
+const searchForm = document.querySelector("form");
 
 window.addEventListener("DOMContentLoaded",()=> showBlogs());
+window.addEventListener("submit",searchBlog);
 
 
-function showBlogs(){
-    const URI = "http://localhost:3000/posts?_sort=likes&_order=desc";
+function showBlogs(term){
+
+    let URI = "http://localhost:3000/posts?_sort=likes&_order=desc";
+
+    if(term){
+        URI += `&q=${term}`;
+    }
 
     let responseObject = fetch(URI);
     responseObject
@@ -25,4 +32,10 @@ function renderBlogs(blogs){
             `
         });
         blogContainer.innerHTML = template;
+}
+
+function searchBlog(e){
+
+    e.preventDefault();
+    showBlogs(searchForm.search.value.trim())
 }
