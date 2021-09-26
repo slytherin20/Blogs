@@ -1,22 +1,10 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Json server",
-      "body": "Sed eros augue, vulputate ut leo ut, congue scelerisque odio. Pellentesque rhoncus felis volutpat mi luctus finibus. Suspendisse consectetur imperdiet ligula et volutpat. Nam elementum fermentum est, et mollis nisi dapibus sed. Aenean at tortor lacus. Aliquam bibendum nisl quam. Nullam neque ligula, sagittis ac elementum et, faucibus id tortor. Suspendisse molestie nunc sit amet dignissim vestibulum. Vivamus et tellus eget erat malesuada suscipit. Mauris consectetur felis justo, eu ullamcorper nisl facilisis quis. Nam dapibus, libero eu lobortis scelerisque, eros risus volutpat libero, vitae ullamcorper ipsum justo sit amet mi. Donec eleifend dolor nec massa tristique, eget pharetra massa bibendum. Maecenas nibh est, consequat nec orci vitae, placerat sodales risus.",
-      "likes": 10
-    },
-    {
       "id": 2,
       "title": "React router",
       "body": "Sed eros augue, vulputate ut leo ut, congue scelerisque odio. Pellentesque rhoncus felis volutpat mi luctus finibus. Suspendisse consectetur imperdiet ligula et volutpat. Nam elementum fermentum est, et mollis nisi dapibus sed. Aenean at tortor lacus. Aliquam bibendum nisl quam. Nullam neque ligula, sagittis ac elementum et, faucibus id tortor. Suspendisse molestie nunc sit amet dignissim vestibulum. Vivamus et tellus eget erat malesuada suscipit. Mauris consectetur felis justo, eu ullamcorper nisl facilisis quis. Nam dapibus, libero eu lobortis scelerisque, eros risus volutpat libero, vitae ullamcorper ipsum justo sit amet mi. Donec eleifend dolor nec massa tristique, eget pharetra massa bibendum. Maecenas nibh est, consequat nec orci vitae, placerat sodales risus.",
       "likes": 13
-    },
-    {
-      "id": 3,
-      "title": "Json",
-      "body": "Sed eros augue, vulputate ut leo ut, congue scelerisque odio. Pellentesque rhoncus felis volutpat mi luctus finibus. Suspendisse consectetur imperdiet ligula et volutpat. Nam elementum fermentum est, et mollis nisi dapibus sed. Aenean at tortor lacus. Aliquam bibendum nisl quam. Nullam neque ligula, sagittis ac elementum et, faucibus id tortor. Suspendisse molestie nunc sit amet dignissim vestibulum. Vivamus et tellus eget erat malesuada suscipit. Mauris consectetur felis justo, eu ullamcorper nisl facilisis quis. Nam dapibus, libero eu lobortis scelerisque, eros risus volutpat libero, vitae ullamcorper ipsum justo sit amet mi. Donec eleifend dolor nec massa tristique, eget pharetra massa bibendum. Maecenas nibh est, consequat nec orci vitae, placerat sodales risus.",
-      "likes": 20
     },
     {
       "id": 4,

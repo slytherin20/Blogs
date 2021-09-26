@@ -1,7 +1,9 @@
 const container = document.querySelector(".details");
+const deleteBtn = document.querySelector(".delete-btn");
 const id = new URLSearchParams(window.location.search).get("id");
 
 window.addEventListener("DOMContentLoaded",()=>showBlog());
+deleteBtn.addEventListener("click",()=>deleteBlog());
 
 
 function showBlog(){
@@ -24,4 +26,15 @@ function renderBlog(blog){
         </div>
     `
     container.innerHTML = template;
+}
+
+function deleteBlog(){
+    const URI = `http://localhost:3000/posts/${id}`;
+
+    fetch(URI,{
+        method:'DELETE'
+    })
+    .then(()=>{
+        window.location.replace('/index.html');
+    })
 }
