@@ -4,7 +4,7 @@ window.addEventListener("DOMContentLoaded",()=> showBlogs());
 
 
 function showBlogs(){
-    const URI = "http://localhost:3000/posts";
+    const URI = "http://localhost:3000/posts?_sort=likes&_order=desc";
 
     let responseObject = fetch(URI);
     responseObject

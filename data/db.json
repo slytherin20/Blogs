@@ -1,36 +1,42 @@
 {
-    "posts":[
-        {
-            "id":1,
-            "title":"Json server",
-            "body":"Sed eros augue, vulputate ut leo ut, congue scelerisque odio. Pellentesque rhoncus felis volutpat mi luctus finibus. Suspendisse consectetur imperdiet ligula et volutpat. Nam elementum fermentum est, et mollis nisi dapibus sed. Aenean at tortor lacus. Aliquam bibendum nisl quam. Nullam neque ligula, sagittis ac elementum et, faucibus id tortor. Suspendisse molestie nunc sit amet dignissim vestibulum. Vivamus et tellus eget erat malesuada suscipit. Mauris consectetur felis justo, eu ullamcorper nisl facilisis quis. Nam dapibus, libero eu lobortis scelerisque, eros risus volutpat libero, vitae ullamcorper ipsum justo sit amet mi. Donec eleifend dolor nec massa tristique, eget pharetra massa bibendum. Maecenas nibh est, consequat nec orci vitae, placerat sodales risus.",
-            "likes":10
-        },
-        {
-            "id":2,
-            "title":"React router",
-            "body":"Sed eros augue, vulputate ut leo ut, congue scelerisque odio. Pellentesque rhoncus felis volutpat mi luctus finibus. Suspendisse consectetur imperdiet ligula et volutpat. Nam elementum fermentum est, et mollis nisi dapibus sed. Aenean at tortor lacus. Aliquam bibendum nisl quam. Nullam neque ligula, sagittis ac elementum et, faucibus id tortor. Suspendisse molestie nunc sit amet dignissim vestibulum. Vivamus et tellus eget erat malesuada suscipit. Mauris consectetur felis justo, eu ullamcorper nisl facilisis quis. Nam dapibus, libero eu lobortis scelerisque, eros risus volutpat libero, vitae ullamcorper ipsum justo sit amet mi. Donec eleifend dolor nec massa tristique, eget pharetra massa bibendum. Maecenas nibh est, consequat nec orci vitae, placerat sodales risus.",
-            "likes":13
-        },
-         {
-            "id":3,
-            "title":"Json",
-            "body":"Sed eros augue, vulputate ut leo ut, congue scelerisque odio. Pellentesque rhoncus felis volutpat mi luctus finibus. Suspendisse consectetur imperdiet ligula et volutpat. Nam elementum fermentum est, et mollis nisi dapibus sed. Aenean at tortor lacus. Aliquam bibendum nisl quam. Nullam neque ligula, sagittis ac elementum et, faucibus id tortor. Suspendisse molestie nunc sit amet dignissim vestibulum. Vivamus et tellus eget erat malesuada suscipit. Mauris consectetur felis justo, eu ullamcorper nisl facilisis quis. Nam dapibus, libero eu lobortis scelerisque, eros risus volutpat libero, vitae ullamcorper ipsum justo sit amet mi. Donec eleifend dolor nec massa tristique, eget pharetra massa bibendum. Maecenas nibh est, consequat nec orci vitae, placerat sodales risus.",
-            "likes":20
-        },
-        {
-            "id":4,
-            "title":"Redux",
-            "body":"Sed eros augue, vulputate ut leo ut, congue scelerisque odio. Pellentesque rhoncus felis volutpat mi luctus finibus. Suspendisse consectetur imperdiet ligula et volutpat. Nam elementum fermentum est, et mollis nisi dapibus sed. Aenean at tortor lacus. Aliquam bibendum nisl quam. Nullam neque ligula, sagittis ac elementum et, faucibus id tortor. Suspendisse molestie nunc sit amet dignissim vestibulum. Vivamus et tellus eget erat malesuada suscipit. Mauris consectetur felis justo, eu ullamcorper nisl facilisis quis. Nam dapibus, libero eu lobortis scelerisque, eros risus volutpat libero, vitae ullamcorper ipsum justo sit amet mi. Donec eleifend dolor nec massa tristique, eget pharetra massa bibendum. Maecenas nibh est, consequat nec orci vitae, placerat sodales risus.",
-            "likes":30
-        }
-    ],
-    "polls":[
-        {
-            "id":1,
-            "ques":"React or Vue?",
-            "ansA":"react",
-            "ansB":"vue"
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "Json server",
+      "body": "Sed eros augue, vulputate ut leo ut, congue scelerisque odio. Pellentesque rhoncus felis volutpat mi luctus finibus. Suspendisse consectetur imperdiet ligula et volutpat. Nam elementum fermentum est, et mollis nisi dapibus sed. Aenean at tortor lacus. Aliquam bibendum nisl quam. Nullam neque ligula, sagittis ac elementum et, faucibus id tortor. Suspendisse molestie nunc sit amet dignissim vestibulum. Vivamus et tellus eget erat malesuada suscipit. Mauris consectetur felis justo, eu ullamcorper nisl facilisis quis. Nam dapibus, libero eu lobortis scelerisque, eros risus volutpat libero, vitae ullamcorper ipsum justo sit amet mi. Donec eleifend dolor nec massa tristique, eget pharetra massa bibendum. Maecenas nibh est, consequat nec orci vitae, placerat sodales risus.",
+      "likes": 10
+    },
+    {
+      "id": 2,
+      "title": "React router",
+      "body": "Sed eros augue, vulputate ut leo ut, congue scelerisque odio. Pellentesque rhoncus felis volutpat mi luctus finibus. Suspendisse consectetur imperdiet ligula et volutpat. Nam elementum fermentum est, et mollis nisi dapibus sed. Aenean at tortor lacus. Aliquam bibendum nisl quam. Nullam neque ligula, sagittis ac elementum et, faucibus id tortor. Suspendisse molestie nunc sit amet dignissim vestibulum. Vivamus et tellus eget erat malesuada suscipit. Mauris consectetur felis justo, eu ullamcorper nisl facilisis quis. Nam dapibus, libero eu lobortis scelerisque, eros risus volutpat libero, vitae ullamcorper ipsum justo sit amet mi. Donec eleifend dolor nec massa tristique, eget pharetra massa bibendum. Maecenas nibh est, consequat nec orci vitae, placerat sodales risus.",
+      "likes": 13
+    },
+    {
+      "id": 3,
+      "title": "Json",
+      "body": "Sed eros augue, vulputate ut leo ut, congue scelerisque odio. Pellentesque rhoncus felis volutpat mi luctus finibus. Suspendisse consectetur imperdiet ligula et volutpat. Nam elementum fermentum est, et mollis nisi dapibus sed. Aenean at tortor lacus. Aliquam bibendum nisl quam. Nullam neque ligula, sagittis ac elementum et, faucibus id tortor. Suspendisse molestie nunc sit amet dignissim vestibulum. Vivamus et tellus eget erat malesuada suscipit. Mauris consectetur felis justo, eu ullamcorper nisl facilisis quis. Nam dapibus, libero eu lobortis scelerisque, eros risus volutpat libero, vitae ullamcorper ipsum justo sit amet mi. Donec eleifend dolor nec massa tristique, eget pharetra massa bibendum. Maecenas nibh est, consequat nec orci vitae, placerat sodales risus.",
+      "likes": 20
+    },
+    {
+      "id": 4,
+      "title": "Redux",
+      "body": "Sed eros augue, vulputate ut leo ut, congue scelerisque odio. Pellentesque rhoncus felis volutpat mi luctus finibus. Suspendisse consectetur imperdiet ligula et volutpat. Nam elementum fermentum est, et mollis nisi dapibus sed. Aenean at tortor lacus. Aliquam bibendum nisl quam. Nullam neque ligula, sagittis ac elementum et, faucibus id tortor. Suspendisse molestie nunc sit amet dignissim vestibulum. Vivamus et tellus eget erat malesuada suscipit. Mauris consectetur felis justo, eu ullamcorper nisl facilisis quis. Nam dapibus, libero eu lobortis scelerisque, eros risus volutpat libero, vitae ullamcorper ipsum justo sit amet mi. Donec eleifend dolor nec massa tristique, eget pharetra massa bibendum. Maecenas nibh est, consequat nec orci vitae, placerat sodales risus.",
+      "likes": 15
+    },
+    {
+      "title": "Flux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dignissim odio eget lacus convallis, et lobortis magna aliquam. Quisque ornare mi magna, ut fermentum dolor porttitor in. Aliquam vehicula, enim sed feugiat sagittis, lorem urna molestie est, in consequat purus dolor non nisl. Morbi tempor ac sapien nec accumsan. Quisque commodo neque porttitor rutrum lacinia. Quisque fringilla ultricies est, id vulputate dolor porttitor a. Mauris tortor turpis, vulputate a iaculis non, tincidunt ac felis. Integer mollis tincidunt lacus at luctus. Donec id ornare turpis. Phasellus a consequat nisi. Nam convallis lacus ligula, a dictum leo consectetur ut.\n\nUt laoreet venenatis neque, sit amet consequat metus egestas quis. Phasellus sit amet vehicula dui. Etiam quis lorem ac elit rutrum luctus id a velit. Quisque ultrices ornare augue, ut luctus turpis porttitor eu. Sed eleifend enim id metus pulvinar accumsan. Sed quis ligula malesuada, semper justo vitae, malesuada orci. Donec sollicitudin ultricies lectus, nec porta arcu porttitor sit amet. Aliquam euismod condimentum leo sed faucibus. Aliquam placerat dignissim iaculis. Ut non facilisis justo. Integer tristique dui vel commodo gravida. Duis pulvinar sollicitudin ipsum nec pretium. Etiam vulputate neque a erat sodales malesuada. Vestibulum urna leo, fringilla vitae elementum a, ullamcorper euismod mi.\n\nCurabitur quis congue magna. Phasellus faucibus dolor quis odio vehicula condimentum. Nulla dui erat, dictum a elementum nec, fermentum non mi. Duis mollis laoreet est. Cras et lobortis odio. Suspendisse venenatis velit tortor, non viverra purus viverra dictum. Praesent interdum fermentum pellentesque. Suspendisse rutrum cursus neque. Morbi sed metus eu tortor vulputate interdum consectetur sit amet risus.\n\nAenean vestibulum placerat nisi in varius. Duis scelerisque pharetra nulla, in sollicitudin nisi ultrices vel. Vivamus venenatis bibendum mi vitae egestas. Sed vitae mauris at tellus mollis placerat. Sed non aliquet velit. Nam nec consequat ante. Suspendisse malesuada tortor mi, id lacinia neque porttitor in. Duis id enim at urna vestibulum consequat id sit amet enim.\n\nAliquam consequat consequat ex quis placerat. Praesent leo dui, blandit ultrices vulputate eu, congue non ligula. Ut lorem augue, facilisis id velit sit amet, semper pellentesque nisl. Pellentesque nec magna at justo euismod porttitor nec quis arcu. Mauris eleifend tellus eu leo congue feugiat. Nunc aliquam purus eget est porttitor, vehicula porta mi egestas. Nam non nunc eu justo iaculis semper eget ut metus. Nullam vel orci nec augue molestie eleifend id nec metus.",
+      "likes": 0,
+      "id": 5
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "ques": "React or Vue?",
+      "ansA": "react",
+      "ansB": "vue"
+    }
+  ]
 }
